@@ -3,6 +3,6 @@
 
 void main()
 {
-printf("thing\n");
+printf("hello universe\n");
 return 0;
 }
